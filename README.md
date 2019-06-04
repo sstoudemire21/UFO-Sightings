@@ -16,7 +16,7 @@ You can handle this... right? The planet Earth needs to know what we have found!
 Your Task
 
 
-Level 1: Automatic Table and Date Search
+Automatic Table and Date Search
 
 
 Create a basic HTML web page or use the index.html file provided (we recommend building your own custom page!).
